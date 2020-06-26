@@ -1,0 +1,34 @@
+.wrapper {
+	margin: 50px auto;
+	width: 450px;
+}
+
+.wrapper .header {
+	background-color: #00A19C;
+	height: 40px;
+}
+
+.wrapper .header p {
+	color: white;
+	font-size: 24px;
+	padding-left: 6px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.wrapper .main {
+	background-color: #C7EEEB;
+	padding: 3px 6px;
+}
+
+.wrapper .main #form p {
+	margin: 8px 0px;
+}
+
+.wrapper .main #form p label {
+	font-size: 20px;
+}
+
+.error {
+	color: red;
+}
